@@ -1,0 +1,29 @@
+'Iz a-Din Bassem Ghaleb Hamamreh,22,Jenin,1/14/2023,M
+'Abd al-Hadi Fakhri Yusef Nazzal,18,Jenin,1/12/2023,M
+Habiballah Muhammad 'Abd a-Rahman Kmeil,26,Jenin,1/12/2023,M
+Samir 'Awni Harbi Aslan,41,al-Quds,1/12/2023,M
+Ahmad 'Amer Salim Abu Jneid,21,Nablus,1/11/2023,M
+'Amer Ghazi Mahmoud Zaytun,16,Nablus,1/5/2023,M
+Saaeb 'Issam Mahmoud Zreiqi,25,Jenin,1/26/2023,M
+Muhammad Mahmoud Muhammad Subuh,34,Jenin,1/26/2023,M
+'Iz a-Din Yasin Jum'ah Salahat,21,Jenin,1/26/2023,M
+Majedah 'Abd al-Fatah Mahmoud 'Obeid,60,Jenin,1/26/2023,F
+Muhammad Sami Muhammad Ghneim,34,Jenin,1/26/2023,M
+'Omar Tareq 'Ali a-S'adi,24,Jenin,1/29/2023,M
+Yusef Yihya 'Abd al-Karim Muheisen,22,al-Quds,1/26/2023,M
+'Aref 'Abd a-Naser 'Aref Lahlouh,20,Tulkarm,1/25/2023,M
+Wadi' 'Abd al-'Aziz Mar'i Abu Ramuz,17,East Jerusalem,1/27/2023,M
+Muhammad 'Abed Musa Muhammad 'Ali,18,East Jerusalem,1/25/2023,M
+'Amru Khaled Lutfi al-Khmur,14,Bethlehem,1/16/2023,M
+Adham Muhammad Bassem Jabarin,26,Jenin,1/19/2023,M
+Jawad Farid Hussein Bawaqnah,57,Jenin,1/19/2023,M
+Hamdi Shaker Ahmad Abu Diyah,40,Hebron,1/17/2023,M
+Ahmad Hassan 'Abd al-Jalil Kahalah,45,Ramallah and al-Bira,1/15/2023,M
+Amjad 'Adnan Ahmad Khaliliya,20,Jenin,1/14/2023,M
+Adam 'Issam Shaker 'Ayad,15,Bethlehem,1/3/2023,M
+Muhammad Samer Hassan Hushiyeh,21,Jenin,1/2/2023,M
+Fouad Mahmoud Ahmad A'bed,17,Jenin,1/2/2023,M
+Yazan Samer 'Izzat al-Ja'bari,19,Jenin,1/14/2023,M
+Ahmad 'Atef Mustafa Daraghmeh,23,Nablus,12/22/2022,M
+Jana Majdi 'Issam 'Assaf,15,Jenin,12/11/2022,F
+Sidqi Sadiq Fayeq Jabur (Zakarnah),19,Jenin,12/8/2022,M
